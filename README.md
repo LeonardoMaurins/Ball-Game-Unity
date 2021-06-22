@@ -27,7 +27,7 @@ If you wish to try out the game, download the Built Game directory and run the B
 
 ## Screenshots
 
-<img src="https://imgur.com/0YnLYnU" style="padding:5px"> 
+<img src="https://i.imgur.com/0YnLYnU.png" style="padding:5px"> 
 <img src="https://imgur.com/LpklJGl" style="padding:5px"> 
 <img src="https://imgur.com/tN5zRRo" style="padding:5px"> 
 <img src="https://imgur.com/ACzxVw1" style="padding:5px"> 
