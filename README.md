@@ -28,9 +28,9 @@ If you wish to try out the game, download the Built Game directory and run the B
 ## Screenshots
 
 <img src="https://i.imgur.com/0YnLYnU.png" style="padding:5px"> 
-<img src="https://imgur.com/LpklJGl" style="padding:5px"> 
-<img src="https://imgur.com/tN5zRRo" style="padding:5px"> 
-<img src="https://imgur.com/ACzxVw1" style="padding:5px"> 
-<img src="https://imgur.com/3kzvDbT" style="padding:5px"> 
-<img src="https://imgur.com/q0Qv94k" style="padding:5px"> 
-<img src="https://imgur.com/ItG13w7" style="padding:5px"> 
+<img src="https://i.imgur.com/LpklJGl.png" style="padding:5px"> 
+<img src="https://i.imgur.com/tN5zRRo.png" style="padding:5px"> 
+<img src="https://i.imgur.com/ACzxVw1.png" style="padding:5px"> 
+<img src="https://i.imgur.com/3kzvDbT.png" style="padding:5px"> 
+<img src="https://i.imgur.com/q0Qv94k.png" style="padding:5px"> 
+<img src="https://i.imgur.com/ItG13w7.png" style="padding:5px"> 
